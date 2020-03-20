@@ -1,0 +1,4 @@
+<p>Welcome to my new page. It took some time to get started, and I am still cogitating over the look and the mechanics of the page, but keeping abreast of modern web technology is not my forte.</p>
+<p>I hope you can find something of value here, and am happy to listen to any ideas you may have to improve the page. That includes content and layout. I am certainly no graphic artist, so just use the "Contact" button to leave your comments.</p>
+Cheers,<br>
+&emsp; Dave
